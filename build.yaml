@@ -18,8 +18,8 @@
 #
 ---
 include:
-	-	board: nice_nano_v2
-		shield: pockettype
+  - board: nice_nano_v2
+    shield: pockettype
 
 #  - board: nice_nano_v2
 #    shield: bfo9000_left
